@@ -1,4 +1,4 @@
-# RikkiHughes.github.io
+# Portfolio.github.io
 
 ## Projects
 ### The Last Sermon
